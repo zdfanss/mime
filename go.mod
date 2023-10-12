@@ -1,3 +1,3 @@
-module github.com/abslant/mime
+module github.com/zdfanss/mime
 
 go 1.17
