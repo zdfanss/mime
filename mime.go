@@ -1,18 +1,8 @@
 package mime
 
 import (
-	"bytes"
-	"crypto/aes"
-	"crypto/cipher"
-	"encoding/gob"
-	"io"
 	"mime"
-	"net/http"
-	"net/url"
-	"os"
 	"path"
-	"path/filepath"
-	"strconv"
 	"strings"
 	"time"
 	"math/rand"
