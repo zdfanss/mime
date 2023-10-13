@@ -4,9 +4,6 @@ import (
 	"mime"
 	"path"
 	"strings"
-	"time"
-	"math/rand"
-	"net"
 )
 
 var extToMimeType = map[string]string{
